@@ -41,3 +41,12 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
