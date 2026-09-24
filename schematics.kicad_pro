@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Untitled.kicad_pro",
+    "filename": "schematics.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -424,8 +424,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "Untitled.kicad_sch",
-        "name": "Root",
+        "filename": "schematics.kicad_sch",
+        "name": "schematics",
         "uuid": "a2c6df74-bcdc-42fd-aec1-9beaf5725762"
       }
     ],
@@ -435,7 +435,7 @@
   "sheets": [
     [
       "a2c6df74-bcdc-42fd-aec1-9beaf5725762",
-      "Root"
+      "schematics"
     ]
   ],
   "text_variables": {},
