@@ -12,6 +12,7 @@ Connects via iBUS directly to flysky receiver and secondary esp device, supports
 - OLED for live stats
 - USB-C charging through the XIAO ESP32 C6
 - Compact form factor
+- 3D Model
 
 ---
 
@@ -32,8 +33,10 @@ Connects via iBUS directly to flysky receiver and secondary esp device, supports
 | :--- | :--- | :---: |
 | **Seeed Studio Xiao ESP32 C6** | Devboard for ESP32 C6 Chipset | 1 |
 | **TPS61023** | Boost voltage to stable 5V | 1 |
-| **Swtich** | Power | 1 |
+| **Switch** | Power | 1 |
 | **OLED** | Live Stats | 1 |
+| **Antenna** | Boost Range | 1 |
+| **Battery** | Power | 1 |
 
 ---
 
